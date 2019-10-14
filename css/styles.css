@@ -11,3 +11,64 @@ h1 {
   max-width: 1000px;
   text-align: center;
 }
+
+h4 {
+  margin-left: 250px;
+}
+
+p {
+  margin-left: 200px;
+}
+
+.images {
+
+}
+
+#img-1 img {
+  height: 280px;
+  width: 400px;
+  padding: 120px;
+  position: relative;
+  float: right;
+  background-image: url("https://cdn.clipart.email/db2e667212965d5253d405b3b11d2a15_explosion-and-sparks-transparent-png-stickpng_726-483.png");
+  background-size: 650px;
+  background-repeat: no-repeat;
+  background-position: 80%;
+  transform: rotate(250deg);
+}
+
+#img-2 img {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 300px;
+  left: 350px;
+  background-image: url("https://webstockreview.net/images/clipart-explosion-fiery-19.png");
+  background-size: 300px;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+#img-3 img {
+  height: 150px;
+  width: 150px;
+  transform: rotate(130deg);
+}
+
+#img-4 img {
+  z-index: 5;
+  height: 250px;
+  width: 250px;
+  margin-left: 150px;
+  position: absolute;
+  top: 1200px;
+}
+
+#img-5 img {
+  height: 150px;
+  width: 150px;
+  background-image: url("https://www.searchpng.com/wp-content/uploads/2018/12/glow-effect-png-715x715.png");
+  background-size: 150px;
+  margin-left: 500px;
+  margin-bottom: 300px;
+}
